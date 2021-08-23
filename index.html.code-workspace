@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\NT1"
+		},
+		{
+			"path": "..\\Recuperatorio-CastroMartinez"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Recuperatorio-CastroMartinez"
+	}
+}
